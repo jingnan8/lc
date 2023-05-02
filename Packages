@@ -1,21 +1,3 @@
-Package: apt.cydiakk.gpscheat
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: Cydiakk <http://apt.cydiakk.com>
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/5829.deb
-Size: 134350
-MD5sum: 5a51a6eda4d1ef1d910d3d7d93db9e9a
-SHA1: bd24dc9a5a8cdbc7b7fc9b6a9ce0ffc07be147b4
-SHA256: 641979062bc8038a6869559ca7cc7147230cd5199be39b33c03c8e41df14710a
-Section: 工具
-Description: 简洁实用的GPS位置虚拟定位软件
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
-Author: Minuit <minuits@163.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: GPSCheat 虚拟定位
-Sponsor: Cydiakk <http://apt.cydiakk.com>
-
 Package: com.paigu.icbcjbdbypass
 Version: 1.0.0-1
 Architecture: iphoneos-arm
@@ -31,4 +13,19 @@ Section: Tweaks
 Description: 反越狱检测
 Author: 糖醋丶炒排骨
 Name: 工银融e联JBDBypass
+
+Package: gpscheat
+Version: 1.1-5
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/5829new.deb
+Size: 224142
+MD5sum: 6e0bda23afde660ba3274e6d8279390e
+SHA1: 93e1b41e12b25260d881a25d96efee36f734c511
+SHA256: 82beca0c653f69be9ca03fac123e523fae64b48db99ab63dfe06f57cecc19059
+Section: 工具
+Description: 简洁实用的GPS位置虚拟定位软件
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: GPSCheat 虚拟定位
 
