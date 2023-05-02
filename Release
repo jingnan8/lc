@@ -1,9 +1,9 @@
-Origin: 我的个人源
-Label: 我的个人源
+Origin: 焦糖源
+Label: 焦糖源
 Suite: stable
 Version: 1.7
 Codename: Tccpg
 Architectures: iphoneos-arm
 Components: main
-Description: 我的个人源
+Description: 焦糖源
 
