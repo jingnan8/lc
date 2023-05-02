@@ -1,29 +1,13 @@
-Package: com.paigu.icbcjbdbypass
-Version: 1.0.0-1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/TTF.deb
-Size: 4566
-MD5sum: c20f3892a4e7035f6172517c4f2a76e4
-SHA1: 387ca127531beec4e0b8326605dc0b74fe9ea67e
-SHA256: 39a800ff816229f016a433e3cc0d15a3ca092008e74cfcdf263b5f9758e7a903
-Section: Tweaks
-Description: 反越狱检测
-Author: 糖醋丶炒排骨
-Name: 工银融e联JBDBypass
-
-Package: gpscheat
+Package: apt.labvdvnjk.gpscheat
 Version: 1.1-5
 Architecture: iphoneos-arm
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: ./debs/5829new.deb
-Size: 224142
-MD5sum: 6e0bda23afde660ba3274e6d8279390e
-SHA1: 93e1b41e12b25260d881a25d96efee36f734c511
-SHA256: 82beca0c653f69be9ca03fac123e523fae64b48db99ab63dfe06f57cecc19059
-Section: 工具
+Size: 224162
+MD5sum: 86b8fbefdd7f16a14d266695e6619c77
+SHA1: f49fed25db19a224392e247bf552939e7482eb5b
+SHA256: 8fffdd21d045bef95b7f3aaf32ecbec5b83aa025af6d13e03f1c0af2d417c15c
+Section: 工具(设置)
 Description: 简洁实用的GPS位置虚拟定位软件
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
