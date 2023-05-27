@@ -1,18 +1,3 @@
-Package: apt.labvdvnjk.Test
-Version: 1.3
-Architecture: iphoneos-arm
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/TTF.deb
-Size: 4105598
-MD5sum: 971b8999788d1d4247ee0800bdde9f72
-SHA1: dce4f425be11ab649d7afcc99719dadcb98d3d33
-SHA256: 3c224ade2fb87d02c40669cde0e24d90c5cf22d251f6e816b1b70caaa4fac978
-Section: 工具(App)
-Priority: optional
-Author: Test
-Icon: Test
-Name: TTF2
-
 Package: apt.labvdvnjk.gpscheat
 Version: 1.1-5
 Architecture: iphoneos-arm
