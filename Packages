@@ -28,3 +28,19 @@ Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: GPSCheat 虚拟定位
 
+Package: com.kitty.ue4dumper
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: CyberCat
+Installed-Size: 1656
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/ue4dumper_2.2.0_rootful_safe.deb
+Size: 351518
+MD5sum: bbfa94c5110a9e1e8f8a63fd1ae643c7
+SHA1: f049f66843cf6a8f92686b1313fd29748d7b37a6
+SHA256: 6f9b0adbead7e8f98552058479b2cd883c16d0afd34981d102ee0c8fab0d9139
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CyberCat
+Name: UE4Dumper
+
